@@ -2,4 +2,3 @@ streamlit
 pandas
 datetime
 sqlalchemy
-json
